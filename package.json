@@ -1,6 +1,10 @@
 {
   "name": "react-course-deliverable",
   "version": "0.1.0",
+  "author": {
+    "name": "Carlos Jasso",
+    "email": "contact@carlosjasso.dev"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
@@ -20,9 +24,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [
