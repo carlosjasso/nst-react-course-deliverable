@@ -47,3 +47,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Referneces
 - [Linux Icon](https://icons8.com/icon/17842/linux) by [Icons8](https://icons8.com)
+- [Gihub corner](https://github.com/tholman/github-corners) by [tholman](https://github.com/tholman)
