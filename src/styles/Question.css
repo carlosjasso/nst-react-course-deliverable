@@ -1,0 +1,29 @@
+.container {
+    width: 350px;
+    height: 500px;
+    background-color: #eee;
+    border-radius: 5px;
+    padding: 8px;
+}
+
+.container form {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+form p {
+    font-weight: bold;
+}
+
+form label {
+    margin: 8px 0 8px 0;
+}
+
+form .filler {
+    flex: 1;
+}
+
+form button {
+    align-self: flex-end;
+}

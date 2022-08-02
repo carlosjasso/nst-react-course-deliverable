@@ -1,0 +1,15 @@
+.result-container {
+    min-width: 450px;
+    background-color: white;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.result-container .text-result {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.result-container button {
+    float: right;
+}
